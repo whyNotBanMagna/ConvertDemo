@@ -1,0 +1,133 @@
+[
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fexceptions -frtti -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/lame.cpp.o -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/lame.cpp",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/lame.cpp"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fexceptions -frtti -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/Mp3Encoder.cpp.o -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/Mp3Encoder.cpp",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/Mp3Encoder.cpp"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/bitstream.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/bitstream.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/bitstream.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/encoder.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/encoder.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/encoder.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/fft.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/fft.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/fft.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/gain_analysis.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/gain_analysis.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/gain_analysis.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/id3tag.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/id3tag.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/id3tag.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/lame.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/lame.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/lame.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/mpglib_interface.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/mpglib_interface.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/mpglib_interface.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/newmdct.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/newmdct.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/newmdct.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/presets.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/presets.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/presets.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/psymodel.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/psymodel.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/psymodel.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/quantize.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/quantize.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/quantize.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/quantize_pvt.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/quantize_pvt.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/quantize_pvt.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/reservoir.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/reservoir.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/reservoir.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/set_get.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/set_get.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/set_get.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/tables.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/tables.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/tables.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/takehiro.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/takehiro.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/takehiro.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/util.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/util.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/util.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/vbrquantize.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/vbrquantize.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/vbrquantize.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/VbrTag.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/VbrTag.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/VbrTag.c"
+},
+
+{
+  "directory": "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/honghengqiang/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -DSTDC_HEADERS -Oz -DNDEBUG  -fPIC   -o CMakeFiles/lame.dir/version.c.o   -c /Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/version.c",
+  "file": "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/version.c"
+}
+]

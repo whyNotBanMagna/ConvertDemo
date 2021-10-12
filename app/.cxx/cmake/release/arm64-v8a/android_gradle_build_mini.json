@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/honghengqiang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/honghengqiang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "lame-Release-arm64-v8a": {
+      "artifactName": "lame",
+      "buildCommandComponents": [
+        "/Users/honghengqiang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/arm64-v8a",
+        "lame"
+      ],
+      "abi": "arm64-v8a",
+      "output": "/Users/honghengqiang/jni/ConvertDemo/app/build/intermediates/cmake/release/obj/arm64-v8a/liblame.so",
+      "runtimeFiles": []
+    }
+  }
+}

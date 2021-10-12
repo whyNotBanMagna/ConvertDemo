@@ -1,0 +1,42 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/honghengqiang/jni/ConvertDemo/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/honghengqiang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/honghengqiang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "lame-Release-x86": {
+      "buildCommandComponents": [
+        "/Users/honghengqiang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/honghengqiang/jni/ConvertDemo/app/.cxx/cmake/release/x86",
+        "lame"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "lame",
+      "output": "/Users/honghengqiang/jni/ConvertDemo/app/build/intermediates/cmake/release/obj/x86/liblame.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

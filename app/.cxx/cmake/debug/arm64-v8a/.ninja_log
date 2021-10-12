@@ -1,0 +1,24 @@
+# ninja log v5
+6	55	1634034551	CMakeFiles/lame.dir/mpglib_interface.c.o	84a11737c5beea0d
+1	111	1634034551	CMakeFiles/lame.dir/Mp3Encoder.cpp.o	637d14aca34f5539
+2	164	1634034551	CMakeFiles/lame.dir/fft.c.o	c4b3052e2be6e7b4
+2	176	1634034551	CMakeFiles/lame.dir/gain_analysis.c.o	431f4ef4055cac83
+1	220	1634034551	CMakeFiles/lame.dir/encoder.c.o	2c748aa94ff7ad80
+55	268	1634034551	CMakeFiles/lame.dir/presets.c.o	41bfa8eeefcde349
+8	282	1634034551	CMakeFiles/lame.dir/newmdct.c.o	d16488e42d4b1162
+1	289	1634034551	CMakeFiles/lame.dir/bitstream.c.o	2c60ba18dc77c45f
+220	312	1634034551	CMakeFiles/lame.dir/reservoir.c.o	12e3dd2c32384735
+282	374	1634034551	CMakeFiles/lame.dir/tables.c.o	e7b7bba42609bf64
+3	437	1634034551	CMakeFiles/lame.dir/id3tag.c.o	bd331685edc4a596
+312	459	1634034551	CMakeFiles/lame.dir/util.c.o	89a51fff8b1844a7
+176	465	1634034551	CMakeFiles/lame.dir/quantize_pvt.c.o	a8315ef7ade44688
+289	516	1634034551	CMakeFiles/lame.dir/takehiro.c.o	d8bc5763ca0d7e72
+459	535	1634034551	CMakeFiles/lame.dir/version.c.o	a167e2bfa4a73622
+4	548	1634034551	CMakeFiles/lame.dir/lame.c.o	9c51c93c861be6da
+269	593	1634034551	CMakeFiles/lame.dir/set_get.c.o	a1c0292f99ccf0ab
+164	594	1634034551	CMakeFiles/lame.dir/quantize.c.o	af7abd08b1666a78
+437	600	1634034551	CMakeFiles/lame.dir/VbrTag.c.o	14a106e1fbba4428
+374	618	1634034551	CMakeFiles/lame.dir/vbrquantize.c.o	cdd066694ffa7516
+111	629	1634034551	CMakeFiles/lame.dir/psymodel.c.o	d9026ec57f7f0980
+0	951	1634034552	CMakeFiles/lame.dir/lame.cpp.o	7bda89c51e19b997
+952	1044	1634034552	/Users/honghengqiang/jni/ConvertDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/liblame.so	a80460b50f126eae
